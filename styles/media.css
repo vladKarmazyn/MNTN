@@ -22,11 +22,7 @@
     }
 }
 @media(max-width:1500px) {
-  .container {
-   
-    
-  }  
-  .social {
+   .social {
     left: -50px;
   } 
   .navigation {
